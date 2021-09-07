@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-gif",
+  "version": "1.0.0",
+  "description": "puppeteer-gif",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "author": "yooyi",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "gif-encoder": "^0.7.2",
+    "jimp": "^0.16.1",
+    "puppeteer": "^10.2.0",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.36",
+    "@types/gif-encoder": "^0.7.1",
+    "typescript": "^4.4.2"
+  }
+}
