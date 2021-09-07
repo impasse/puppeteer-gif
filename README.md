@@ -2,7 +2,7 @@
 
 ## Usage
 
-`
+```
 import record from 'puppeteer-gif';
 
 ...
